@@ -1,4 +1,4 @@
-## Two baselines: DialogueRNN](https://ojs.aaai.org/index.php/AAAI/article/view/4657) and [DialogueGCN](https://www.aclweb.org/anthology/D19-1015/) for MRC module.
+## Two baselines: [DialogueRNN](https://ojs.aaai.org/index.php/AAAI/article/view/4657) and [DialogueGCN](https://www.aclweb.org/anthology/D19-1015/) for MRC module.
 
 We adopt DialogueRNN and DialogueGCN as our baselines. These two models are originally designed for sentiment classification. To adapt them to our task, we replace DADgraph’s internal models with these models, but hold fixed the same final MRC module and BERT-based utterance representations.
 
