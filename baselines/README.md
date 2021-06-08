@@ -1,6 +1,6 @@
 # Baselines
 
-### Classical MRC models for document MRC. 
+### Classical MRC models for document. 
 We adopt open-source code of the following two models from the SQuAD 2.0 paper: https://bit.ly/2rDHBgY
 * BiDAF. The BiDAF model presents the context passage at different levels of granularity and learns the query-aware context representation using a bi-directional attention flow mechanism.
 * DocQA. This model is a neural paragraph-level QA method, which can scale to document and multidocument inputs. DocQA can ignore no-answer containing paragraphs in documents. The model contains paragraph sampling and attempts to produce a globally correct answer.
