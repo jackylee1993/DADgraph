@@ -77,7 +77,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--base-model', default='LSTM', help='base recurrent model, must be one of DialogRNN/LSTM/GRU')
 
-    parser.add_argument('--graph-model', type = int, default=1,
+    parser.add_argument('--graph-model', type = int, default=3,
                         help='DialogueRNN 1 DialogueGCN 2 DADgraph 3')
 
     parser.add_argument('--nodal-attention', action='store_true', default=False,
