@@ -1,7 +1,7 @@
 # Baselines
 
 ### Classical MRC models for document MRC. 
-We adopt open-source code of the following two models from the SQuAD 2.0 paper: https: //bit.ly/2rDHBgY
+We adopt open-source code of the following two models from the SQuAD 2.0 paper: https://bit.ly/2rDHBgY
 * BiDAF.
 * DocQA.
 
