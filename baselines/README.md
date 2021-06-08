@@ -10,7 +10,7 @@ We adopt the open-source code of BERT: https://github.com/google-research/bert
 * BERT. To adapt BERT for our task, we concatenate all utterances from the input dialogue as a passage, where each utterance ui encodes both the speaker identity and their uttered
 text as {speaker_ui : content_ui}.
 
-### Two baselines: [DialogueRNN](https://ojs.aaai.org/index.php/AAAI/article/view/4657) and [DialogueGCN](https://www.aclweb.org/anthology/D19-1015/) with MRC module.
+### Two dialogue models: [DialogueRNN](https://ojs.aaai.org/index.php/AAAI/article/view/4657) and [DialogueGCN](https://www.aclweb.org/anthology/D19-1015/) with MRC module.
 
 We adopt DialogueRNN and DialogueGCN as our baselines. These two models are originally designed for sentiment classification. To adapt them to our task, we replace DADgraph’s internal models with these models but hold fixed the same final MRC module and BERT-based utterance representations.
 
