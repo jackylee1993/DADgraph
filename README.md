@@ -14,3 +14,4 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 * Python 3
 * PyTorch 
 * [Transformers 3.4](https://github.com/huggingface/transformers)
+* [BERT-base, uncased model](https://github.com/google-research/bert )
