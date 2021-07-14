@@ -23,7 +23,7 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 2. DialogueGCN
 3. DADgraph
 
-Models can by choosed by `graph-model` parameter.
+Models can be choosed by `graph-model` parameter.
 
 ## Acknowledgements
 
