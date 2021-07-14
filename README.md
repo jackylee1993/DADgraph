@@ -22,6 +22,7 @@ train.py: main file, including three models:
 1. DialogueRNN
 2. DialogueGCN
 3. DADgraph
+
 Models can by choosed by `graph-model` parameter.
 
 ## Acknowledgements
