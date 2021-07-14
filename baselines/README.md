@@ -18,3 +18,5 @@ We adopt DialogueRNN and DialogueGCN as our baselines. These two models are orig
 GRUs: a global GRU and a party GRU.
 
 **DialogueGCN**. Compared to DialogueRNN, DialogueGCN model the context windows of an utterance in the dialogue as a graph and represent the graph using the GCN model.
+
+These two models are contained in `train.py` and can by choosed by `graph-model` parameter.
