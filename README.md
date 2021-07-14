@@ -15,3 +15,7 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 * PyTorch 
 * [Transformers 3.4](https://github.com/huggingface/transformers)
 * [BERT-base, uncased model](https://huggingface.co/bert-base-uncased/tree/main)
+
+## Acknowledgements
+
+We reference codes of [DialogueGCN] (https://github.com/declare-lab/conv-emotion#dialoguegcn-a-graph-convolutional-neural-network-for-emotion-recognition-in-conversation) and [DeepSequential](https://github.com/shizhouxing/DialogueDiscourseParsing).
