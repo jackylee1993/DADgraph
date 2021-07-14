@@ -18,7 +18,7 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 
 ## Descriptions
 
-train.py: main file, including three models:
+`train.py`: main file, including three models:
 1. DialogueRNN
 2. DialogueGCN
 3. DADgraph
