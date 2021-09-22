@@ -8,7 +8,7 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 
 * Dataset: [Molweni corpus](https://github.com/hit-scir/molweni).
 
-* Citation
+* Citation <br>
 @INPROCEEDINGS{9533364, <br>
   author={Li, Jiaqi and Liu, Ming and Zheng, Zihao and Zhang, Heng and Qin, Bing and Kan, Min-Yen and Liu, Ting},  <br>
   booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},  <br>  
