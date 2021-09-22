@@ -10,13 +10,21 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 
 * Cite
 @INPROCEEDINGS{9533364,
+
   author={Li, Jiaqi and Liu, Ming and Zheng, Zihao and Zhang, Heng and Qin, Bing and Kan, Min-Yen and Liu, Ting},
+  
   booktitle={2021 International Joint Conference on Neural Networks (IJCNN)}, 
+  
   title={DADgraph: A Discourse-aware Dialogue Graph Neural Network for Multiparty Dialogue Machine Reading Comprehension}, 
+  
   year={2021},
+  
   volume={},
+  
   number={},
+  
   pages={1-8},
+  
   doi={10.1109/IJCNN52387.2021.9533364}}
 
 
