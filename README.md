@@ -9,7 +9,7 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
 * Dataset: [Molweni corpus](https://github.com/hit-scir/molweni).
 
 * Citation <br>
-@INPROCEEDINGS{9533364, <br>
+@INPROCEEDINGS{li2021dadgraph, <br>
   author={Li, Jiaqi and Liu, Ming and Zheng, Zihao and Zhang, Heng and Qin, Bing and Kan, Min-Yen and Liu, Ting},  <br>
   booktitle={2021 International Joint Conference on Neural Networks (IJCNN)},  <br>  
   title={DADgraph: A Discourse-aware Dialogue Graph Neural Network for Multiparty Dialogue Machine Reading Comprehension},  <br>  
