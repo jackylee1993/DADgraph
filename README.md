@@ -19,7 +19,6 @@ This is the code of DADgraph paper, accepted by the International Joint Conferen
   pages={1-8}, <br>  
   doi={10.1109/IJCNN52387.2021.9533364}} <br>
 
-
 ## Dependencies
 
 * Python 3
